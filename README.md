@@ -10,8 +10,6 @@ Welcome to my GitHub profile! I'm a HR girlie by day and learning to code by nig
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
-Thanks for visiting my profile! Have a great day! 😊
-
 ## 🛠️ Projects
 
 Here are a few projects that I've worked on:
@@ -23,3 +21,6 @@ Here are a few projects that I've worked on:
 its-natasha/its-natasha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Thanks for visiting my profile! Have a great day! 😊
+
