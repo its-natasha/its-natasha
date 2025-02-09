@@ -13,9 +13,8 @@ Welcome to my GitHub profile! I'm a HR girlie by day and learning to code by nig
 ## 🛠️ Projects
 
 Here are a few projects that I've worked on:
-
-- [Project 1](https://tourmaline-travesseiro-a676e5.netlify.app): A calculator using javascript, HTML & CSS.
-- [Project 2](https://mellifluous-kitsune-e5b238.netlify.app): A water counter using javascript, HTML & CSS.
+- [Project 1](https://mellifluous-kitsune-e5b238.netlify.app): A water counter using javascript, HTML & CSS.
+- [Project 2](https://tourmaline-travesseiro-a676e5.netlify.app): A calculator using javascript, HTML & CSS.
 
 <!---
 its-natasha/its-natasha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
