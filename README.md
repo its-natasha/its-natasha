@@ -1,6 +1,6 @@
 # Hi there, I'm Natasha! 👋
 
-Welcome to my GitHub profile! I'm a HR girlie by day and learning to code by night!
+Welcome to my GitHub profile! I'm an Analyst by day and learning to code by night!
 
 ## 🚀 About Me
 
