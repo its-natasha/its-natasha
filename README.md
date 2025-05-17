@@ -23,5 +23,6 @@ its-natasha/its-natasha is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-Thanks for visiting my profile! Have a great day! 😊
+Thanks for visiting my profile! 
+Natasha
 
